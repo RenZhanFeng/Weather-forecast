@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#524A59",
+    "navigationBarTitleText": "天气APP",
+    "navigationBarTextStyle":"black"
+  }
+}
